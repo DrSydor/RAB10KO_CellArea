@@ -5,4 +5,5 @@ This script automatically takes a series of images and segments the cytosol of c
 
 The input of this script is a folder of exported multi-channel images from Volocity. Each exported image is inside a folder named after the image and contains each channel as a separate file. This script ignores the channels other than green and assumes the green channel is named 'T00001C02Z001.tif'.
 
-This script was created for a manuscript currently under review (will update with citation once accepted).
+This script was created for the paper "Salmonella exploits membrane reservoirs for invasion of host cells": 
+https://www.nature.com/articles/s41467-024-47183-x
